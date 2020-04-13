@@ -1,13 +1,13 @@
 Attacks:
     * Omoplata
-    * Trinagle
+    * Triangle
     * Armbar
 
 Sweeps:
     * Close legs over opponent's legs
 
 Defence:
-    * Shallow lassso
+    * Shallow lasso
 
 Related positions:
     * Lasso half guard
