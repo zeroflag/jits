@@ -5,6 +5,7 @@ Attacks:
 
 Sweeps:
     * Close legs over opponent's legs
+    * Tripod sweep
 
 Defence:
     * Shallow lasso
