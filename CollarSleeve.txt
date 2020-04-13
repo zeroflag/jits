@@ -13,6 +13,7 @@ Defence:
 Related positions:
     * Lasso half guard
     * DLR
+    * Spider
 
 Setups:
     * TODO
